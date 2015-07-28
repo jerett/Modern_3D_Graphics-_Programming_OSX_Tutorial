@@ -1,4 +1,4 @@
-EXE=shaderCaclcPosition
+EXE=shaderPerspective
 INCLUDE=-I../..
 OBJ=*.cc ../../framework/*.cc
 CXX_FLAG= -std=c++11
